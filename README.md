@@ -16,7 +16,7 @@ DataAnalyticsPortfolio/
 Data exploration, cleaning, and querying projects.
 
 ### Python
-Data analysis, automation, and machine learning projects.
+Data analysis, automation, and EDA.
 
 ### DataViz
 Interactive dashboards and business intelligence reports created with Power BI and other visualization tools.
